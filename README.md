@@ -2,5 +2,5 @@
 Sai
 
 # reduxpal
-Asynchronous flow in Redux
+Asynchronous flow in Redux-Thunk
 
